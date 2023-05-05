@@ -24,7 +24,7 @@ The purpose of this project is to create a machine learning model to determine w
 customers of a mail-order company. Demographic variables will be used for this analysis along with household, building, and neighborhood information. 
 The ultimate goal is to improve the efficiency of the new customer acquisition process to make decisions based on data.
 
-### 4. File Descriptions
+#### 4. File Descriptions
 
 By confidentiality agreement, the data cannot be openly shared. However, there are 4 inputs that were used for this project which are:
 
@@ -33,12 +33,12 @@ By confidentiality agreement, the data cannot be openly shared. However, there a
 - `Udacity_MAILOUT_052018_TRAIN.csv`: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
 - `Udacity_MAILOUT_052018_TEST.csv`: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
-### 5. Results
+#### 5. Results
 
 Two machine learning models were created: one for customer segmentation with the k-means algorithm and another for classification with the Gradient Boosting Classifier 
 algorithm. The clustering model makes it possible to identify the segments of the general population of Germany that are most similar to current customers. 
 The classification model makes it possible to establish whether or not the person is likely to be a client of the company.
 
-### 6. Licensing, Authors, and Acknowledgements
+#### 6. Licensing, Authors, and Acknowledgements
 
 I must give credit to Bertelsmann/Arvato for providing the data.
